@@ -18,6 +18,11 @@
   ## Usage
   After packages installed you should be able to run your code.
   
+ 
+  link to my deployed application:
+[Note taker](https://easynotes-9190f6d849c6.herokuapp.com/)
+
+  
   ## License
   MIT
   
