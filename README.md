@@ -28,6 +28,8 @@
   
   ## Contributing
   
+  I used source code from github for css and html and js.
+
   
   
   ## Tests
